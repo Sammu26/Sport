@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Content Creator Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Sports Portfolio</h1>
+        <p>Creating high-impact sports content to inspire and engage audiences.</p>
+    </header>
+
+    <section class="videos">
+        <h2>Featured Work</h2>
+        <div class="video-container">
+            <iframe src="https://www.instagram.com/reel/DHvkSuKNRjl/embed" allowfullscreen></iframe>
+            <iframe src="https://www.instagram.com/reel/DHOasfvNJi8/embed" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <footer>
+        <p>Follow me on Instagram & TikTok for more!</p>
+    </footer>
+</body>
+</html>
